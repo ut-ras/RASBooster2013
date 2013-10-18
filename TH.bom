@@ -1,0 +1,26 @@
+Partlist exported from TH.sch at 18/10/2013 10:40
+
+Part  Value                                     Device                                    Package                Description                
+C1    0.1uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C2    100uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C3    0.1uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C4    100uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C5    0.1uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C6    100uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C7    100uF                                     C-US025-050X050                           C025-050X050           CAPACITOR, American symbol 
+C8    1000uF                                    C-US025-050X050                           C025-050X050           CAPACITOR, American symbol 
+C9    0.1uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+C10   100uF                                     C-US025-024X044                           C025-024X044           CAPACITOR, American symbol 
+D1    D1                                        1N5820-D                                  DIODE_17MM             1N5820-D                   
+D2    D2                                        1N5820-D                                  DIODE_17MM             1N5820-D                   
+IC1   TLE5205-2                                 TLE5205-2                                 TO-220-7-11            TLE5205-2                  
+IC2   TLE5205-2                                 TLE5205-2                                 TO-220-7-11            TLE5205-2                  
+IC3   TLE5205-2                                 TLE5205-2                                 TO-220-7-11            TLE5205-2                  
+IC5   TLE5205-2                                 TLE5205-2                                 TO-220-7-11            TLE5205-2                  
+J3    POWERPOLE_DOUBLE                          POWERPOLE_DOUBLE                          POWERPOLE_DOUBLE       Double PowerPole Connector 
+L1    SH50C-3.0-47                              SH50C-3.0-47                              SH50-C2                Inductor 47uH, 3 A         
+R1    DO NOT POPULATE                           DO NOT POPULATE                           DO NOT POPULATE        DO NOT POPULATE
+R2    DO NOT POPULATE                           DO NOT POPULATE                           DO NOT POPULATE        DO NOT POPULATE
+R4    DO NOT POPULATE                           DO NOT POPULATE                           DO NOT POPULATE        DO NOT POPULATE
+R5    DO NOT POPULATE                           DO NOT POPULATE                           DO NOT POPULATE        DO NOT POPULATE
+U1    LM2576.SMD                                LM2576.SMD                                KTT0005B               LM2576                     
